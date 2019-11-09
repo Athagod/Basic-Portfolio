@@ -1,0 +1,72 @@
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: right;
+    border-right: white;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+}
+.mainport {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ffffff;
+    width: 500px;
+    text-align: left;
+    height: 410px;
+    border-color: #dddddd;
+    margin: auto;
+    border-style: solid;
+    margin-left: auto;
+
+
+
+}
+
+
+.Name {
+    float: left;
+}
+.NavBar {
+    float: left;
+    padding: 20px;
+    padding-left: 900px
+}
+
+.footer {
+    clear: both;
+    padding: 20px;
+    background-color: #777777;
+    
+}
+h2 {
+    clear: both;
+    padding: 20px;
+}
+
+
+p {
+    text-align: right;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-top: 100px;
+}
+
+.Heading-left {
+    clear: both;
+    overflow: auto;
+}
+
+{
+
+}
